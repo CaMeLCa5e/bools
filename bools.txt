@@ -1,0 +1,163 @@
+# a study n bools- 
+
+“project manager” AND (“Stanford University” OR “Pomona OR Princeton University” OR Yale OR “Columbia University” OR Swarthmore OR Harvard OR “Williams college” OR MIT OR M.I.T. OR “Massachusetts Institute of Technology” OR “University of Pennsylvania” OR “Brown University” OR Amherst OR “University of Chicago” OR Duke OR Dartmouth OR Northwestern OR “California institute of technology” OR Cornell OR Bowdoin OR “Washington and Lee” OR Berkeley OR Wellesley OR “Notre Dame” OR Tufts OR Georgetown OR Vassar OR “university of Virginia” OR “university of Michigan” OR Davidson OR rice OR “university of California” OR “Boston college” OR “Colgate University” OR Vanderbilt OR “Chapel hill” OR Wesleyan OR “Bryn mawr” OR Middlebury OR “Carnegie Mellon” OR Haverford OR “college of William and Mary” OR Carleton” OR “Johns Hopkins” OR Hamilton OR Lafayette OR Colby OR Oberlin OR Brandeis OR “Harvey Mudd” OR “University of Illinois” OR Barnard OR “University of Washington” OR “new York university” OR “Washington university” OR “union college” OR “smith college” OR “wake forest” OR “University of Rochester” OR Whitman OR “university of southern California” OR Grinnell OR “University of Texas” OR “cooper union” OR “university of Wisconsin” OR Kenyon OR Lehigh OR “college of the holy cross” OR “Santa Clara university” OR “university of Maryland” OR “university of Florida” OR “Brigham young” OR “Colorado college” OR “George Washington university” OR “trinity college” OR Villanova OR “Centre college” OR “southern Methodist university” OR Macalester OR “Georgia institute of technology” OR “mount Holyoke college” OR “Boston university” OR Franklin and Marshall” OR “university of Richmond” OR “case western” OR “University of Georgia” OR Sewanee OR DePauw OR “Pennsylvania state University” OR “Indiana university” OR Wheaton OR Pepperdine)
+
+For linkedin 
+
+Cornell University OR Harvard University OR Brown University OR Columbia University in the City of New York OR Georgetown University OR New York University OR University of Pennsylvania OR Massachusetts Institute of Technology OR Duke University OR Princeton University OR Rensselaer Polytechnic Institute OR University of Maryland-College Park OR Carnegie Mellon University
+
+QA 
+
+(UFT OR “U.F.T.” OR “unified functional testing” OR QTP OR “quicktest pro” OR “quick test pro”OR “11.50”)
+
+(UFT OR “U.F.T.” OR “unified functional testing” OR QTP OR “quicktest pro” OR “quick test pro”OR “11.50”) AND (QA OR Q.A. OR “Quality Assurance” OR “quality analyst”) AND (Analyst OR Engineer OR Test*) 
+
+(Energy OR commodities OR Futures OR Hedge OR fund OR Bank OR finance) AND (QA OR Q.A. OR “Quality Assurance” OR “quality analyst”) AND (Manual) 
+
+(Energy OR commodities OR Futures OR Hedge OR fund OR Bank OR finance) AND (QA OR Q.A. OR “Quality Assurance” OR “quality analyst”) AND Manager
+
+(“qa manager” OR “q.a. manager” OR “quality assurance manager”)
+
+(Qa OR Q.A. OR "Quality Assurance" OR "Quality Analyst") AND anal* AND (Bank OR Financ* OR Invest*) 
+
+Marketing AND advertising AND (Test OR QA OR Q.A. OR “Quality Assurance” OR QC OR “quality control” OR “quality analyst”) AND (software OR “soft ware”) AND (Analyst OR Engineer) 
+
+(Media OR Production OR Marketing OR advertising) AND
+
+(QA OR Q.A. OR “Quality Assurance” OR QC OR “quality control” OR “quality analyst”)AND (software OR “soft ware”) AND Develop* AND (.NET OR C# OR C++ OR JAVA) AND “Build Engineer”
+
+(QA OR Q.A. OR “Quality Assurance”) AND (Bank OR Finan*OR Hedge) AND Agile
+
+(QA OR Q.A. OR “Quality Assurance” OR QC OR “quality control” OR “quality analyst”) AND (“Software Engineer” OR “developer”) AND Build
+
+(QA OR Q.A. OR “Quality Assurance” OR QC OR “quality control” OR “quality analyst”) AND Develop* AND (.NET OR C# OR C++ OR JAVA OR VB)
+
+(Energy OR commodities OR Futures OR Hedge OR fund OR Bank OR finance) AND (QA OR Q.A. OR "Quality Assurance" OR "quality analyst") AND Agile AND Manual
+
+(QA OR Q.A. OR "Quality Assurance" OR "quality analyst") AND Manual
+
+(Energy OR commodities OR Futures OR Hedge OR fund OR Bank OR finance) AND (“QA Manager” OR “Q.A. Manager” OR "Quality Assurance Manager" OR "quality Manager")
+
+(.NET OR C# OR C++ OR JAVA) AND developer AND (JR OR Jr. OR Junior OR Beginner OR Intern* OR Entry)
+
+(QA OR Q.A. OR “Quality Assurance” OR “quality control” OR “quality analyst”)AND (software OR “soft ware”) AND (“quick test pro” OR QTP OR Q.T.P.) AND Agile NOT (CT OR Connecticut)
+
+(QA OR Q.A. OR “Quality Assurance” OR OR “quality analyst”) AND (“quick test pro” OR QTP OR Q.T.P.) NOT (CT OR Connecticut)
+
+(c++ OR C# OR Borland) AND (physics OR mathematics OR “computer science” OR Technology) AND Color AND (Masters OR PHD OR p.h.d. OR Doctorate OR Master’s)
+
+(c++ OR C# OR Borland) AND Color AND (Masters OR PHD OR p.h.d. OR Doctorate OR Master’s)
+
+(QA OR Q.A. OR “Quality Assurance” OR QC OR “quality control” OR “quality analyst”) AND (manage OR Lead) AND (Automation OR Automated OR QTP OR “quick test pro” OR “Test Complete” OR Selenium) AND (annuity OR annuities) 
+
+(.NET OR C#) AND developer AND (JR OR Jr. OR Junior OR Beginner OR Intern* OR Entry) 
+
+C# AND (QA OR “quality assurance”) AND (developer OR Engineer OR Analyst ) AND Test 
+
+(QA OR Q.A. OR “Quality Assurance” OR QC OR “quality control” OR “quality analyst”) AND (selenium OR QTP OR “quick test pro” OR Q.T.P. OR “test complete” 
+
+Development 
+
+(Drupal OR PHP) AND (Developer OR Engineer OR Programmer) AND (Media OR Sport* OR Television OR Broadcast OR Entertainment OR Tele*)
+
+(asp OR .NET OR MVC OR “Entity framework”) AND (Javascript OR “java script” OR JS OR HTML OR CSS) AND (developer OR “front end” OR “front-end”) AND (Python OR Ruby OR Rails) 
+
+(asp OR .NET OR MVC OR "Entity framework") AND (Javascript OR "java script" OR JS OR HTML OR CSS) AND (developer OR "front end" OR "front-end") AND Python
+
+(Web OR Javascript OR "java script" OR JS OR HTML OR CSS OR "front end" OR "front-end") AND developer 
+
+(.NET OR C#) AND developer AND (QA OR Q.A. OR “Quality Assurance” OR QC OR “quality control” OR “quality analyst”) 
+
+(Vba Or V.B.A.) AND Excel 
+
+(.NET OR C# OR C++) AND Developer 
+
+(Matlab OR Quant) AND Developer AND (bank OR portfolio OR asset OR Fund OR hedge) 
+
+(Ext.JS OR JQuery OR “J Query” OR “J-Query”) AND (Web OR “front end” OR frontend or “front-end”) AND Developer AND (.NET OR Javascript OR JAVA) AND (Consult* OR Temp*)
+
+(Ext.JS OR  "ext JS" OR "ext-js") AND (Web OR "front end" OR frontend or "front-end") AND Developer AND (.NET OR "dot net" OR dotnet) AND (Consult* OR Temp*)
+
+C++ AND (develop* OR Program* OR Engineer) 
+
+Drupal AND (develop* OR Program* OR Engineer)
+
+ ("+ +" OR Python OR Java OR sql) AND (developer OR Development) AND (Quant* OR Matlab OR trading OR Finance)
+
+(Python OR Java OR sql) AND (developer) AND (Quant* OR Matlab OR trading OR Finance)
+
+(JR OR Jr. OR Junior OR Beginner OR Intern* OR Entry) AND (Macros OR “Pivot” OR “v look up” OR “V lookup” OR V-Lookup OR “V-Look up” OR Vba Or V.B.A.) AND Excel 
+
+(Macros OR “Pivot” OR “v look up” OR “V lookup” OR V-Lookup OR “V-Look up” OR Vba OR V.B.A.) AND Excel NOT (Medical OR Nurse OR Doctor OR PHD OR P.H.D.)
+
+(Macros OR “Pivot” OR “v look up” OR “V lookup” OR “V-Lookup” OR “V-Look up”) AND ( Vba OR V.B.A.) AND (Excel OR VB OR “visual basic”) AND (develop* OR Program*)  NOT (Medical OR Nurse OR Doctor)
+
+(Macros OR “Pivot” OR “v look up” OR “V lookup” OR “V-Lookup” OR “V-Look up”) AND Excel NOT (Medical OR Nurse OR Doctor)
+
+(.NET OR C#) AND developer AND Financ* AND (UI OR “User Interface” OR GUI OR G.U.I.) 
+
+Java AND developer AND Financ* 
+
+Java AND developer AND (SQL OR Sequel) AND (QA OR “quality assurance” Q.A.) AND Financ* NOT (Connecticut OR CT)
+
+(iOS OR OSX OR iPad OR iPhone OR “I Phone”) AND (“Help Desk” OR Helpdesk OR Integrator OR “desktop admin*” OR “User Support” OR “Systems Admin*” OR “system admin*”) AND (Legal OR Paralegal) AND Mobile 
+
+(C++ OR .NET OR JAVA OR Scripting OR Scrypt OR Shell OR Perl OR UFT OR Script OR Ruby OR Python OR HTML OR XHTML OR XML OR JSP OR “Java Script”OR “Shell Scripting”) AND (“quick test pro” OR QTP OR Q.T.P.) AND (QA OR "quality assurance" Q.A.)
+
+(.NET OR C#) AND (developer OR develop OR Engineer) AND (Finance OR Financial OR Bank) 
+
+(VB OR “visual basic” or “VB.NET” “vBasic”) AND (financial OR finance OR Bank) AND (Developer OR Develop OR Engineer) 
+
+Support 
+
+“A+” AND Ticketing AND Support 
+
+(Support OR “help desk”) AND (Ticket OR Ticketing) AND (CCNA OR “A+”)
+
+(Support OR “help desk”) AND (VMware OR VPN OR Symantec OR VEEAM OR Falconstor) AND MobileIron
+
+(“desktop support” OR “Desk top support” OR “Desk-top support” OR “help desk” OR helpdesk) AND (citrix OR VMware OR VPN OR Symantec OR VEEAM OR Falconstor) AND Mobile AND (Bank OR Financ* Or Invest*) 
+
+(“desktop support” OR “Desk top support” OR “Desk-top support”) AND Hardware AND( troubleshoot OR “trouble shoot”) AND network 
+
+(“Application Analyst” OR “application support” OR “Support analyst” OR “Support Specialist”) AND Pharma*
+
+BA 
+
+(forex OR FX OR “foreign exchange”) AND Analyst AND (financial OR finance OR Bank OR “business”)
+
+(Analyst OR BA OR "B.A." OR “project manager”) AND (“F.X.” OR FX OR “Foreign Exchange” OR Currency) AND (Cons* OR Temp* OR “Part time” OR “part-time”)
+
+(Analyst OR BA OR "B.A." OR “project manager”) AND (advent OR Geneva OR APX OR Dynamics) AND ("wealth management" OR "net worth" OR "net-worth" OR “private wealth” OR “portfolio management” OR “Investment management” OR “high net”) 
+
+(Analyst OR BA) AND (Portfolio OR Investment OR Wealth OR asset) 
+
+
+Risk/Quant 
+
+Risk AND (modeling OR Quant OR Var OR Stress OR Strategy OR Equity OR Commodities OR FX) AND Analyst 
+
+(Matlab OR “math works” OR mathworks OR modeling OR Quant*) AND (Develop* OR Analyst) 
+
+PM
+
+(“Project manager” OR “Project Manage” OR “Manage Product” OR PMP) AND (Media OR Sport* OR Television OR Broadcast OR Entertainment OR Tele*) NOT Construction 
+
+(“Project manager” OR “Project Manage” OR “Manage Product” OR PMP) AND Operations AND ITIL AND (Portfolio OR Investment OR Wealth OR asset) NOT Construction 
+
+(“Project manager” OR “Manage Product” OR PMP) AND ITIL AND Hedge NOT Construction 
+
+("Project manager" OR p.m.p. OR PMP) AND (ITIL OR operations) AND “Hedge” NOT Construction
+
+ERP 
+
+Peoplesoft AND FSCM 
+
+(Peoplesoft OR “people soft”) AND (HR OR Human Resources OR HRIS OR HRSM) AND (finance* OR Accounting OR Payroll) AND (Lead or Manag*) 
+
+Manager 
+
+Technical Manager
+
+(manage OR “project manager” OR “program manager”) AND develop* AND PeopleSoft AND (Energy OR commodities OR Futures OR Hedge OR fund OR Bank OR finance)
+
